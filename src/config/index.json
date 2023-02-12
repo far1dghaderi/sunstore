@@ -29,7 +29,7 @@
   "mainHero": {
     "title": "Welcome to ",
     "subtitle": "Sunstore.",
-    "description": "[Store name] is an online store founded with the goal of providing a convenient and affordable shopping experience for everyone. We are passionate about delivering high-quality products and exceptional customer service. Our team is dedicated to ensuring that you have a positive shopping experience every time you visit us. Shop now and discover the [store name] difference!  ",
+    "description": "Sunstore is an online store founded with the goal of providing a convenient and affordable shopping experience for everyone. We are passionate about delivering high-quality products and exceptional customer service. Our team is dedicated to ensuring that you have a positive shopping experience every time you visit us. Shop now and discover the Sunstore difference!  ",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
@@ -58,7 +58,7 @@
   "features": {
     "title": "Everything that you need",
     "subtitle": "All the best products out there!",
-    "description": "At [store name], we offer a diverse range of products to meet all your needs. From fashion and beauty to electronics and home goods, we have something for everyone. Browse our latest arrivals and discover new and exciting products that are just right for you.",
+    "description": "At Sunstore, we offer a diverse range of products to meet all your needs. From fashion and beauty to electronics and home goods, we have something for everyone. Browse our latest arrivals and discover new and exciting products that are just right for you.",
     "items": [
       {
         "name": "Style & Fashion",
