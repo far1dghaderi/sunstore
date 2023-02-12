@@ -1,7 +1,7 @@
 {
   "company": {
     "name": "Sunstore Demo Inc",
-    "logo": "/assets/images/logo.png"
+    "logo": "/assets/images/logo.svg"
   },
   "navigation": [
     {
@@ -37,7 +37,7 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "#"
     }
   },
   "product": {
