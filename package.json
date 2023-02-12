@@ -16,6 +16,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "engines":{
+   "node": "14.x"
+  },
   "dependencies": {
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.5",
