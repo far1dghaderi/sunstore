@@ -1,7 +1,7 @@
 {
-  "name": "react-landing-page-2021",
+  "name": "sunstore",
   "version": "1.0.0",
-  "homepage": "http://{far1dghaderi}.github.io/sunstore",
+  "homepage": "http://far1dghaderi.github.io/sunstore",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -16,8 +16,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "engines":{
-   "node": "14.x"
+  "engines": {
+    "node": "14.x"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.1",
