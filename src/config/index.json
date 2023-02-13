@@ -28,7 +28,7 @@
   },
   "mainHero": {
     "title": "Welcome to ",
-    "subtitle": "Sunstore.",
+    "subtitle": "Sunstore Demo.",
     "description": "Sunstore is an online store founded with the goal of providing a convenient and affordable shopping experience for everyone. We are passionate about delivering high-quality products and exceptional customer service. Our team is dedicated to ensuring that you have a positive shopping experience every time you visit us. Shop now and discover the Sunstore difference!  ",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
